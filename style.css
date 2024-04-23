@@ -4,13 +4,9 @@
   box-sizing: border-box;
 }
 
-body {
-  height: 100%;
-}
+
 
 .nav-link {
   width: max-content;
-  a {
-    color: black;
-  }
+ 
 }
